@@ -1,7 +1,7 @@
 
 The vimrc configuration file is meant to be used with GVim
-on Windows although some parts of it may be useful in other
-systems. The theme is based on Inkpot with some changes:
+on Windows although some parts of it may be useful in other systems.  
+The theme is based on Inkpot with some changes:
 
 ![vim theme](https://github.com/Kleif/Vim/raw/hg/images/vim.png)
 
